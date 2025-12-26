@@ -58,7 +58,7 @@ Overall, YOLOv8 demonstrated robustness and efficiency for real-world fire and s
 
 Below is a real-time inference demo showing fire and smoke detection on video input:
 
-👉 **[Click here to watch the demo video](https://github.com/Eman92003/Fire_Detection_Aitronix/blob/main/1226.mp4)**
+👉 **[Click here to watch the demo video]([https://github.com/Eman92003/Fire_Detection_Aitronix/blob/main/1226.mp4](https://drive.google.com/file/d/1P0MHRBVb0ZhEZaUsD1MSr-4XEy64sqmn/view?usp=sharing))**
 
 *(The model successfully detects fire and smoke instances with bounding boxes and confidence scores in real-time.)*
 
